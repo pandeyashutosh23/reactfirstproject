@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    height: 670px;
+}
+.getStart-btn{
+    border: 1px solid rgb(137, 43, 266);
+    padding:10px 35px;
+    font-size: large;
+    border-radius: 100px;
+    text-decoration: none;
+    text-align: center;
+}
+.getStart-btn:hover{
+    background-color: skyblue;
+    transition: 0.5s ease;
+    color:black;
+}
+
+.brand-name {
+    font-size:50px;
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.menu_active{
+    color: blueviolet;
+    border-bottom: 1px solid red;
+}
+
+
+
+
+
+
+
+
+
+footer{
+    margin-top:0px;
+}
